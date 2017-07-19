@@ -6,5 +6,8 @@ import { Component } from '@angular/core';
 })
 
 export class HeaderComponent {
+  featureSelected:
+  onSelect(feature: string) {
 
+  }
 }
